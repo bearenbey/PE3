@@ -1,0 +1,15 @@
+/Users/bearen/Documents/CSharp/PE3/PE3/bin/Debug/net6.0/PE3
+/Users/bearen/Documents/CSharp/PE3/PE3/bin/Debug/net6.0/PE3.deps.json
+/Users/bearen/Documents/CSharp/PE3/PE3/bin/Debug/net6.0/PE3.runtimeconfig.json
+/Users/bearen/Documents/CSharp/PE3/PE3/bin/Debug/net6.0/PE3.dll
+/Users/bearen/Documents/CSharp/PE3/PE3/bin/Debug/net6.0/PE3.pdb
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.csproj.AssemblyReference.cache
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.AssemblyInfoInputs.cache
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.AssemblyInfo.cs
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.csproj.CoreCompileInputs.cache
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.dll
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/refint/PE3.dll
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.pdb
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/PE3.genruntimeconfig.cache
+/Users/bearen/Documents/CSharp/PE3/PE3/obj/Debug/net6.0/ref/PE3.dll
